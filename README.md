@@ -1,8 +1,5 @@
 # pricing-panel
 
-## Gif Demo
-![todo-list](Readme/todo-list.gif)
-
 ## Introduction
 
 A responsive pricing panel, build with a mobile first approach. Changes layout based on screen size.
